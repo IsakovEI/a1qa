@@ -1,0 +1,23 @@
+[33mcommit a71699e6610156d563855444aba5381cd7a640c7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Isakov <isakov.e@bk.ru>
+Date:   Sun Apr 17 17:38:08 2022 +0300
+
+    удалил лишнее
+
+[33mcommit 830a5e35e1dcaadc352790924c30a288510a345d[m
+Author: Isakov <isakov.e@bk.ru>
+Date:   Sun Apr 17 17:37:52 2022 +0300
+
+    удалил лишнее
+
+[33mcommit 5e66d3858aafab881030be6c0c024954b5ea8705[m
+Author: Isakov <isakov.e@bk.ru>
+Date:   Sun Apr 17 17:36:34 2022 +0300
+
+    Реализовал 4 шага.
+
+[33mcommit 1fcc5cce20bf9aa268323a353aa735c25956e222[m
+Author: artemgordeychik <55186862+artemgordeychik@users.noreply.github.com>
+Date:   Thu Apr 7 13:16:35 2022 +0400
+
+    Initial commit
