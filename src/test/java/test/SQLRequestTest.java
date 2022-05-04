@@ -28,4 +28,5 @@ public class SQLRequestTest {
         LOGGER.info("Step 4. Get the number of tests that had carried out with: " + Arrays.toString(TestData.getBrowsers()));
         IWriter.printResult(DbUtil.getResultArrayByQuery(DbRequestService.getSelectTestsExecutedWithFirefoxAndChrome()));
     }
+
 }
